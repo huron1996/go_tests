@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="05f7fb0e-00b1-4fb1-ad14-9dd20aca73aa" name="Default Changelist" comment="" />
+    <list default="true" id="05f7fb0e-00b1-4fb1-ad14-9dd20aca73aa" name="Default Changelist" comment="the first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,11 +30,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -36,6 +47,14 @@
       <option name="presentableId" value="Default" />
       <updated>1621472967690</updated>
     </task>
+    <task id="LOCAL-00001" summary="the first commit">
+      <created>1621473871906</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621473871906</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -52,6 +71,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="the first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="the first commit" />
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
     <environment>
@@ -65,10 +88,14 @@
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state x="2539" y="409" key="EnvironmentVariablesDialog/3600.23.2560.1417/1680.0.1920.1080/0.23.1680.1027@1680.0.1920.1080" timestamp="1621473208909" />
-    <state x="2141" y="179" key="SettingsEditor" timestamp="1621473524183">
+    <state x="2141" y="179" key="SettingsEditor" timestamp="1621473892845">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state x="2141" y="179" key="SettingsEditor/3600.0.2560.1440/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1621473035115" />
-    <state x="2141" y="179" key="SettingsEditor/3600.23.2560.1417/1680.0.1920.1080/0.23.1680.1027@1680.0.1920.1080" timestamp="1621473524183" />
+    <state x="2141" y="179" key="SettingsEditor/3600.23.2560.1417/1680.0.1920.1080/0.23.1680.1027@1680.0.1920.1080" timestamp="1621473892845" />
+    <state x="2240" y="280" key="Vcs.Push.Dialog.v2" timestamp="1621473789622">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2240" y="280" key="Vcs.Push.Dialog.v2/3600.23.2560.1417/1680.0.1920.1080/0.23.1680.1027@1680.0.1920.1080" timestamp="1621473789622" />
   </component>
 </project>
