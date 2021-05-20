@@ -1,1 +1,3 @@
-module "go-tests"
+module go-tests
+
+go 1.15
